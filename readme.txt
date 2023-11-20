@@ -7,3 +7,7 @@ Released: 8/21/2020
 
 Shaun Wassell
 Full-Stack Software Developer
+
+
+The stack for this course is: node. js, npm.js, Google Cloud, firebase, Angular.js
+
